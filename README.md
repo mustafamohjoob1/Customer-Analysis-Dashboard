@@ -51,7 +51,7 @@ This Power BI dashboard analyzes customer behavior, sales performance, and reven
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot 2026-06-10 192844.png)
 
 ## Author
 
